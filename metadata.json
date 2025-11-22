@@ -1,0 +1,5 @@
+{
+  "description": "A Virtual Stylist app powered by Gemini 2.5 Flash Image. Upload a clothing item to generate complete outfit options or use text commands to edit your images.",
+  "requestFramePermissions": [],
+  "name": ""
+}
